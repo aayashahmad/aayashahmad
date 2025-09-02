@@ -14,18 +14,18 @@
 
 ### 🚀 Tech Stack  
 - **Frontend:** React.js ⚛️ | React Native 📱  
-- **Backend:** Express.js 🌐  
-- **Programming Languages:** JavaScript (Deep Dive) | Python (Basics) 🐍  
+- **Backend:** Express.js 🌐 | Go (Learning) 🐹  
+- **Programming Languages:** JavaScript (Deep Dive) | Python (Basics) 🐍 | Go  
 - **Database:** MySQL | MongoDB (beginner)  
 
 ---
 
 ### 🌱 Currently Learning  
 - Advanced **JavaScript & Problem Solving**  
+- **Go (Golang)** for backend development  
 - **Artificial Intelligence & Machine Learning**  
 - **Big Data & Database Management**  
 
----
 
 ### 💞️ Looking to Collaborate On  
 - **Full-Stack Web & Mobile Development Projects**  
