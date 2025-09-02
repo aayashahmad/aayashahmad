@@ -35,9 +35,9 @@
 ---
 
 ### 📫 How to Reach Me  
-- 📩 Email: **aayashahmadbhat@gmail.com**  
-- 📷 Instagram: [@aayash_ahmad](https://instagram.com/aayash_ahmad)  
-- 💼 LinkedIn: [Aayash Ahmad Bhat](https://www.linkedin.com/in/aayashahmadbhat)  
+- 📩 Email: **bhatashu666@gmail.com**  
+- 📷 Instagram: [@aayash_ahmad](https://instagram.com/bhat__ashu)  
+- 💼 LinkedIn: [Aayash Ahmad Bhat](www.linkedin.com/in/aayash-ahmad-185036242)  
 
 ---
 
